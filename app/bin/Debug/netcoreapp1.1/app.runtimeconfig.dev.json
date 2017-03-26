@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jay/.nuget/packages"
+    ]
+  }
+}
