@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/domain/domain.csproj",
+      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj",
       "projectName": "domain",
-      "projectPath": "/home/jay/dev/projects/macro-calculator/domain/domain.csproj",
-      "outputPath": "/home/jay/dev/projects/macro-calculator/domain/obj/",
+      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj",
+      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/domain.dll": "/home/jay/dev/projects/macro-calculator/domain/bin/placeholder/netstandard1.4/domain.dll"
+        "lib/netstandard1.4/domain.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/bin/placeholder/netstandard1.4/domain.dll"
       },
       "frameworks": {
         "netstandard1.4": {

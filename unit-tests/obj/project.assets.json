@@ -8602,25 +8602,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/unit-tests/unit-tests.csproj",
+      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/unit-tests/unit-tests.csproj",
       "projectName": "unit-tests",
-      "projectPath": "/home/jay/dev/projects/macro-calculator/unit-tests/unit-tests.csproj",
-      "outputPath": "/home/jay/dev/projects/macro-calculator/unit-tests/obj/",
+      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/unit-tests/unit-tests.csproj",
+      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/unit-tests/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/unit-tests.dll": "/home/jay/dev/projects/macro-calculator/unit-tests/bin/placeholder/netcoreapp1.1/unit-tests.dll"
+        "lib/netcoreapp1.1/unit-tests.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/unit-tests/bin/placeholder/netcoreapp1.1/unit-tests.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "/home/jay/dev/projects/macro-calculator/services/services.csproj": {
-              "projectPath": "/home/jay/dev/projects/macro-calculator/services/services.csproj"
+            "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj": {
+              "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj"
             },
-            "/home/jay/dev/projects/macro-calculator/domain/domain.csproj": {
-              "projectPath": "/home/jay/dev/projects/macro-calculator/domain/domain.csproj"
+            "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj": {
+              "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj"
             }
           }
         }

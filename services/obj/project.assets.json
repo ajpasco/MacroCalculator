@@ -3727,22 +3727,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/services/services.csproj",
+      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj",
       "projectName": "services",
-      "projectPath": "/home/jay/dev/projects/macro-calculator/services/services.csproj",
-      "outputPath": "/home/jay/dev/projects/macro-calculator/services/obj/",
+      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj",
+      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/services.dll": "/home/jay/dev/projects/macro-calculator/services/bin/placeholder/netstandard1.4/services.dll"
+        "lib/netstandard1.4/services.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/bin/placeholder/netstandard1.4/services.dll"
       },
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
-            "/home/jay/dev/projects/macro-calculator/domain/domain.csproj": {
-              "projectPath": "/home/jay/dev/projects/macro-calculator/domain/domain.csproj"
+            "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj": {
+              "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj"
             }
           }
         }

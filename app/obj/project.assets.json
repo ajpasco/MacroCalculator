@@ -7119,25 +7119,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/app/app.csproj",
+      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/app.csproj",
       "projectName": "app",
-      "projectPath": "/home/jay/dev/projects/macro-calculator/app/app.csproj",
-      "outputPath": "/home/jay/dev/projects/macro-calculator/app/obj/",
+      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/app.csproj",
+      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/app.dll": "/home/jay/dev/projects/macro-calculator/app/bin/placeholder/netcoreapp1.1/app.dll"
+        "lib/netcoreapp1.1/app.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/bin/placeholder/netcoreapp1.1/app.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "/home/jay/dev/projects/macro-calculator/services/services.csproj": {
-              "projectPath": "/home/jay/dev/projects/macro-calculator/services/services.csproj"
+            "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj": {
+              "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/services/services.csproj"
             },
-            "/home/jay/dev/projects/macro-calculator/domain/domain.csproj": {
-              "projectPath": "/home/jay/dev/projects/macro-calculator/domain/domain.csproj"
+            "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj": {
+              "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/domain.csproj"
             }
           }
         }

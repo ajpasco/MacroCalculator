@@ -4,3 +4,9 @@
 /home/jay/dev/projects/macro-calculator/domain/obj/Debug/netstandard1.4/domain.AssemblyInfo.cs
 /home/jay/dev/projects/macro-calculator/domain/obj/Debug/netstandard1.4/domain.dll
 /home/jay/dev/projects/macro-calculator/domain/obj/Debug/netstandard1.4/domain.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/bin/Debug/netstandard1.4/domain.deps.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/bin/Debug/netstandard1.4/domain.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/bin/Debug/netstandard1.4/domain.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/obj/Debug/netstandard1.4/domain.AssemblyInfo.cs
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/obj/Debug/netstandard1.4/domain.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/domain/obj/Debug/netstandard1.4/domain.pdb

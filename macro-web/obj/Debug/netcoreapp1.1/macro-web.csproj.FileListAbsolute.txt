@@ -1,0 +1,8 @@
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/bin/Debug/netcoreapp1.1/macro-web.deps.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/bin/Debug/netcoreapp1.1/macro-web.runtimeconfig.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/bin/Debug/netcoreapp1.1/macro-web.runtimeconfig.dev.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/bin/Debug/netcoreapp1.1/macro-web.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/bin/Debug/netcoreapp1.1/macro-web.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/obj/Debug/netcoreapp1.1/macro-web.AssemblyInfo.cs
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/obj/Debug/netcoreapp1.1/macro-web.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-web/obj/Debug/netcoreapp1.1/macro-web.pdb
