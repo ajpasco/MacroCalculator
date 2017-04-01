@@ -5,7 +5,7 @@ namespace Services
 {
     public class CalorieService
     {
-        public double CalcuateRestingEnergyExpenditure(Person person)
+        public int CalcuateRestingEnergyExpenditure(Person person)
         {
             double weightKg = convertPoundsToKilograms(person.WeightPounds);
             double heightCm = convertFeetToCentimeters(person.HeightFeet) + convertInchesToCentimeters(person.HeightInches);
@@ -13,9 +13,9 @@ namespace Services
             double calories = 10 * weightKg + 6.25 * heightCm - 5 * person.Age;
 
             if (person.Gender == Gender.Male)
-                return calories + 5;
+                return (int)calories + 5;
             
-            return calories - 161;
+            return (int)calories - 161;
         }
 
         private double convertFeetToCentimeters(int feet)

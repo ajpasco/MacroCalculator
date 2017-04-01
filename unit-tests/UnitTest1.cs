@@ -3,12 +3,12 @@ using Xunit;
 using Services;
 using Domain.Model;
 
-namespace unit_tests
+namespace UnitTests.Services
 {
-    public class UnitTest1
+    public class CalorieServiceTests
     {
         [Fact]
-        public void TestREECalcualtion()
+        public void TestREECalcualtion_Returns_Correct_Calorie()
         {
             CalorieService calorieService = new CalorieService();
             Person person = new Person()
@@ -21,7 +21,7 @@ namespace unit_tests
 
             var reeCals = calorieService.CalcuateRestingEnergyExpenditure(person);
             Console.WriteLine("Calories = " + reeCals);
-            Assert.True(reeCals > 0);
+            Assert.True(reeCals == 1882);
         }
     }
 }
