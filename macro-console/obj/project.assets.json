@@ -7119,16 +7119,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/app.csproj",
-      "projectName": "app",
-      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/app.csproj",
-      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/obj/",
+      "projectUniqueName": "/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/macro-console.csproj",
+      "projectName": "macro-console",
+      "projectPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/macro-console.csproj",
+      "outputPath": "/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/app.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/app/bin/placeholder/netcoreapp1.1/app.dll"
+        "lib/netcoreapp1.1/macro-console.dll": "/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/placeholder/netcoreapp1.1/macro-console.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

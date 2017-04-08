@@ -8,7 +8,6 @@ namespace app
     {
         static void Main(string[] args)
         {
-            
             CalorieService calorieService = new CalorieService();
             Person person = new Person()
             {

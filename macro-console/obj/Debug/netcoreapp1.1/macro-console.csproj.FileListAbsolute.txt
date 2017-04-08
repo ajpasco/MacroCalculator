@@ -1,0 +1,12 @@
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/macro-console.deps.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/macro-console.runtimeconfig.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/macro-console.runtimeconfig.dev.json
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/macro-console.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/macro-console.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/domain.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/services.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/services.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/bin/Debug/netcoreapp1.1/domain.pdb
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/obj/Debug/netcoreapp1.1/macro-console.AssemblyInfo.cs
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/obj/Debug/netcoreapp1.1/macro-console.dll
+/home/jay/dev/projects/macro-calculator/MacroCalculator/macro-console/obj/Debug/netcoreapp1.1/macro-console.pdb
