@@ -14,7 +14,7 @@ namespace UnitTests.Services
             Person person = new Person()
             {
                 Gender = Gender.Male,
-                HeightFeet = 8, //change back to 6
+                HeightFeet = 6,
                 WeightPounds = 194,
                 Age = 29
             };
